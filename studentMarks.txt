@@ -1,0 +1,6 @@
+5
+8439, Jake Hobbs, 10,11,10,43
+4120, Fred Smith, 19,17,20,80
+5391, Jo Huckleberry, 15,12,14,60
+6712, Amy Flores, 9,8,7,30
+2983, Leo Carter, 18,19,20,90
